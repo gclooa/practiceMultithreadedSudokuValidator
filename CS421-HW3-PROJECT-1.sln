@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CS421-HW3-PROJECT-1", "CS421-HW3-PROJECT-1\CS421-HW3-PROJECT-1.vcxproj", "{A44CEA2E-107E-4388-ACEA-78E2EF0CFE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A44CEA2E-107E-4388-ACEA-78E2EF0CFE03}.Debug|x64.ActiveCfg = Debug|x64
+		{A44CEA2E-107E-4388-ACEA-78E2EF0CFE03}.Debug|x64.Build.0 = Debug|x64
+		{A44CEA2E-107E-4388-ACEA-78E2EF0CFE03}.Debug|x86.ActiveCfg = Debug|Win32
+		{A44CEA2E-107E-4388-ACEA-78E2EF0CFE03}.Debug|x86.Build.0 = Debug|Win32
+		{A44CEA2E-107E-4388-ACEA-78E2EF0CFE03}.Release|x64.ActiveCfg = Release|x64
+		{A44CEA2E-107E-4388-ACEA-78E2EF0CFE03}.Release|x64.Build.0 = Release|x64
+		{A44CEA2E-107E-4388-ACEA-78E2EF0CFE03}.Release|x86.ActiveCfg = Release|Win32
+		{A44CEA2E-107E-4388-ACEA-78E2EF0CFE03}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {925AB4F3-4E35-4FFF-A849-228071E2A62D}
+	EndGlobalSection
+EndGlobal
